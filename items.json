@@ -1,0 +1,43 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "Album 1",
+            "price": 1299,
+            "imgName": "eheads.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Album 2",
+            "price": 899,
+            "imgName": "eheads.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Album 3",
+            "price": 1099,
+            "imgName": "eheads.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Album 4",
+            "price": 1199,
+            "imgName": "eheads.jpg"
+        }
+
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "T-Shirt",
+            "price": 1199,
+            "imgName": "eheads.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Cofee Cup",
+            "price": 999,
+            "imgName": "eheads.jpg"
+        }
+    ]
+}
