@@ -1,19 +1,28 @@
 {
   "name": "paymentportal",
   "version": "1.0.0",
-  "description": "",
+  "description": "stripe patyment portal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.3",
     "express": "^4.17.1",
-    "stripe": "^8.63.0"
+    "stripe": "^8.64.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agtumala/test-payment-portal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agtumala/test-payment-portal/issues"
+  },
+  "homepage": "https://github.com/agtumala/test-payment-portal#readme"
 }
